@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Martin Nilsson C\Olika projekt\DungeonsOfRPG\DungeonsOfRPG\bin\Debug\DungeonsOfRPG.exe.config
+C:\Users\Martin\Documents\Martin Nilsson C\Olika projekt\DungeonsOfRPG\DungeonsOfRPG\obj\Debug\DungeonsOfRPG.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Martin Nilsson C\Olika projekt\DungeonsOfRPG\DungeonsOfRPG\bin\Debug\DungeonsOfRPG.exe
+C:\Users\Martin\Documents\Martin Nilsson C\Olika projekt\DungeonsOfRPG\DungeonsOfRPG\bin\Debug\DungeonsOfRPG.pdb
+C:\Users\Martin\Documents\Martin Nilsson C\Olika projekt\DungeonsOfRPG\DungeonsOfRPG\obj\Debug\DungeonsOfRPG.exe
+C:\Users\Martin\Documents\Martin Nilsson C\Olika projekt\DungeonsOfRPG\DungeonsOfRPG\obj\Debug\DungeonsOfRPG.pdb
